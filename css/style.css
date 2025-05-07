@@ -1,0 +1,29 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: green;
+    text-transform:capitalize;
+    margin: 0;
+}
+.title{
+    text-align: center;
+    color: #008000;
+    font-size: 30px;
+    margin: 30px 0;
+}
+.description{
+    font-size: 20px;
+    text-align: right;
+    text-transform: uppercase;
+    padding: 40px 57px 72px 69px;
+    margin: 9px 58px 70px 37px;
+    background-color: gainsboro;
+}
+/* h1{} */
+img{
+    height: 334px;
+    width: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 30px auto;
+}
